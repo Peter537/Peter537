@@ -4,18 +4,8 @@
 
 **Software developer from Denmark focused on C#, Python, AI/LLMs, backend systems, and automation.**
 
-<a href="https://github.com/Peter537">
-  <img
-    src="https://img.shields.io/badge/GitHub-Peter537-181717?style=flat-square&logo=github&logoColor=white"
-    alt="Peter537 on GitHub"
-  />
-</a>
-<a href="https://peter-andersen.dk/">
-  <img
-    src="https://img.shields.io/badge/Website-peter--andersen.dk-0B6570?style=flat-square&logo=googlechrome&logoColor=white"
-    alt="Peter Andersen's website"
-  />
-</a>
+<a href="https://github.com/Peter537"><img src="https://img.shields.io/badge/GitHub-Peter537-181717?style=flat-square&logo=github&logoColor=white" alt="Peter537 on GitHub" /></a>
+<a href="https://peter-andersen.dk/"><img src="https://img.shields.io/badge/Website-peter--andersen.dk-0B6570?style=flat-square&logo=googlechrome&logoColor=white" alt="Peter Andersen's website" /></a>
 
 </div>
 
