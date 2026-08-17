@@ -50,6 +50,20 @@ data across games, players, teams, managers, seasons, groups, and tournaments.
 - Supports custom seasons and league, Swiss-system, knockout, and double-elimination tournaments.
 - Tech: Python 3.14, Streamlit, Starlette, XlsxWriter.
 
+---
+
+### [PCM CDB Editor](https://github.com/Peter537/pcm-cdb-editor)
+
+A Windows desktop editor for Pro Cycling Manager CDB save files, combining
+schema-aware browsing, typed SQLite editing, and copy-first safety workflows.
+
+**Highlights**
+
+- Opens and edits isolated copies of CDB files with backup and recovery support.
+- Provides bounded table browsing, search, filters, sorting, and typed inline or full-row editing.
+- Includes disk-backed undo/redo and preview-first maintenance tools for supported schemas.
+- Tech: C#, .NET 10, WinUI 3, Windows App SDK, SQLite.
+
 ## GitHub at a glance
 
 <p align="center">
